@@ -12,6 +12,7 @@ namespace Engenharia_de_Software
         private string email;
         private string endereco;
         private int idade;
+        private float salario;
 
         public teste()
         { 
