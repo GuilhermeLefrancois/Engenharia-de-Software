@@ -5,6 +5,7 @@ public class Class1
 {
 	public Class1()
 	{
-		string nome;
+		private string nome;
+		private int idade;
 	}
 }
